@@ -49,5 +49,7 @@
     "webpack-dev-server": "^1.16.2",
     "webpack-hot-middleware": "^2.13.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "create-react-class": "^15.5.2"
+  }
 }
